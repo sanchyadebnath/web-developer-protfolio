@@ -89,4 +89,24 @@ max-width: 500px;
 
 }
 
+.about{
+
+margin: 130px;
+border-radius: 10px;
+background: #FFF8F3;
+
+
+
+}
+.section-title{
+    color: var #181818;
+    text-align: center;
+
+    font-size: 35px;
+
+    font-weight: 700;
+
+
+
+}
 
